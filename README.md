@@ -1,4 +1,4 @@
-# Ittalents
+# Ittalents, Test 1, Version 1, Java
 Task №1: Write a program that reads 3 characters separated by space – each one – the value of a slot machine. Possible inputs are all capital letters. The inputs are infinite. The program must check whether there is a “BINGO” combination – three instances of the same value in a single input. If there is a BINGO combination, the output must be BINGO and the program continues. The program stops when all BINGO combinations have been dealt at least once. Then the program should print the total number of tries. Invalid inputs are not considered a valid try.
 
 
