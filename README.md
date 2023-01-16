@@ -8,4 +8,4 @@ Task №2: Write a function that takes a varible that holds some text. The funct
 Task №3: Write a method that by given array of integers, returns another array of 4 in- tegers, that are – the sum, the substraction, the product and the division of all elements in the given array. Use recursion!
 
 
-Task №4: Write a method that takes a 2D square array of characters with odd number of rows and columns, slice it by two diagonals and prints the two triangles that are left. Triangles are printed one after another (not next to each other)
+Task №4: Write a method that takes a 2D square array of characters with odd number of rows and columns, slice it by two diagonals and prints the two triangles that are left. Triangles are printed one after another (not next to each other).
